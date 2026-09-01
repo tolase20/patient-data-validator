@@ -1,4 +1,4 @@
-Markdown
+
 # Patient Data Validator
 
 The program provides a healthcare facility's Digital Health Team with an automated, rule-based validation system to check patient information, classify patients by age, determine record validity, and generate structured validation reports before a record is accepted into the hospital system.
