@@ -76,8 +76,14 @@ His record passes every validation rule, so the final status is:
 Patient Record: Valid
 
 ## Program Screenshot
+<img width="1366" height="768" alt="Screenshot (28)" src="https://github.com/user-attachments/assets/2cca32aa-f9e5-4cf2-93b7-50726983f9a1" />
 
-![Program Output](screenshot.png)
+<img width="1366" height="768" alt="Screenshot (29)" src="https://github.com/user-attachments/assets/169564d6-4f84-430f-abf9-86bdf62eb851" />
+<img width="1366" height="768" alt="Screenshot (30)" src="https://github.com/user-attachments/assets/ce69e20e-bd23-4752-9ac2-172f8c5b2e8a" />
+<img width="1366" height="768" alt="Screenshot (31)" src="https://github.com/user-attachments/assets/e04ecce4-31fe-4124-9908-f2af1a9bc9d1" />
+<img width="1366" height="768" alt="Screenshot (32)" src="https://github.com/user-attachments/assets/41abbdd0-bff1-4f7d-8e98-03b5c8431167" />
+<img width="1366" height="768" alt="Screenshot (33)" src="https://github.com/user-attachments/assets/39ef913d-1756-46cc-a6c1-b80953f41199" />
+
 
 ## Code Snippets
 
